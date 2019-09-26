@@ -1,0 +1,22 @@
+{
+  "name": "sheetyjs",
+  "version": "1.0.0",
+  "description": "NPM package for sheety.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wistcc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wistcc/sheetyjs.git"
+  },
+  "author": "wistcc <wistcc@gmail.com> http://winnercrespo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wistcc/sheetyjs/issues"
+  },
+  "homepage": "https://github.com/wistcc/sheetyjs#readme"
+}
